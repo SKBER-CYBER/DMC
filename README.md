@@ -24,7 +24,7 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 - `pip install bs4`
 - `rm -rf DMC`
 - `git clone https://github.com/SKBER-CYBER/DMC.git`
-- `cd DMC.py`
+- `cd DMC`
 - `python DMC.py`
 
 
