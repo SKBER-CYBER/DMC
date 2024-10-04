@@ -15,7 +15,6 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=PAID+AND+FREE+MIX+COMMAND+ENJOY+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 
-```
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
@@ -27,12 +26,6 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 - `git clone --depth=1 https://github.com/AKING110/AKING.git`
 - `cd AKING`
 - `python AKING.py`
-
-___This Tools is paid and Free There are both.___</br>
-
-cd DMC
-python DMC.py
-```
 
 ___This Tools is paid and Free There are both.___</br>
 
