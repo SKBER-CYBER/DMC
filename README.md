@@ -22,12 +22,11 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf AKING`
-- `git clone --depth=1 https://github.com/AKING110/AKING.git`
-- `cd AKING`
-- `python AKING.py`
+- `rm -rf DMC`
+- `git clone https://github.com/SKBER-CYBER/DMC.git`
+- `cd DMC.py`
+- `python DMC.py`
 
-___This Tools is paid and Free There are both.___</br>
 
 ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
