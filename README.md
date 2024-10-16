@@ -25,7 +25,7 @@ MR.OGGY <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hy
 - `rm -rf DMC`
 - `git clone https://github.com/SKBER-CYBER/DMC.git`
 - `cd DMC`
-- `python DMC.py`
+- `python LOVE.py`
 
 
 ENJOY THIS TOOL=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
